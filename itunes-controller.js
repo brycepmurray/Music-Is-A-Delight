@@ -13,7 +13,7 @@ function ItunesController() {
         for (var i = 0; i < songList.length; i++) {
             var song = songList[i];
             template += `
-<div class="col-md-5 card text-center">
+<div class="col-md-4 card text-center">
         <h3>${song.title}</h3>
          <img src="${song.albumArt}">
        <h4>${song.artist}</h4>
