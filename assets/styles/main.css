@@ -19,3 +19,12 @@ body {
 .audio {
   width: 100%;
 }
+
+.logo {
+  height: 150px;
+  width: 300px;
+}
+
+.logos {
+  margin: 2rem;
+}
